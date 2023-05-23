@@ -6,7 +6,7 @@ body {
 
 /* HEADINGS */
 
-h1, h2 {
+h1, h2, h3 {
     color: white;
 }
 
@@ -24,6 +24,7 @@ h4 {
     color: grey;
     font-size: 21px;
 }
+
 
 /* LINKS */
 
